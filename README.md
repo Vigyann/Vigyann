@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here, you’ll find a collection of projects and r
 
 - 🔍 I specialize in **Data Science** ,**Data Analytics** and **Financial Analytics**.  
 - 💡 Currently pursuing an **MSc in Data Science with a Minor in Finance**.  
-- 🔭 Currently working on **Animal Tracking for Wildlife Conservation using Neural Networks**.  
+- 🔭 Currently working on **Deep Learning for Image Vision using Neural Networks**.  
 - 🤝 Looking to collaborate on **Data Science/Machine Learning Projects**.  
 - 📧 Reach me at **vigyanbhardwaj970@gmail.com**.  
 - 🌱 I’m currently learning **Deep Learning** and **Natural Language Processing**.  
