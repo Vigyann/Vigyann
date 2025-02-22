@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigyann&label=Profile%20views&color=0e75b6&style=flat" alt="vigyann" /> </p>
 
-🎓 **MSc Data Science Student | Financial Analytics Enthusiast | Data Science and Analytics Practitioner**  
+🎓 **MSc Data Science Student | Financial Analytics Enthusiast | Data Science and Data Analytics Practitioner**  
 
 Welcome to my GitHub profile! Here, you’ll find a collection of projects and repositories showcasing my passion for **data science**, **financial analytics**, and **problem-solving using technology**.  
 
