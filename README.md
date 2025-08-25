@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here, you’ll find a collection of projects and r
 -  Achievements:  
   - Presented a paper on **Responsible AI** at a national conference.  
   - Academic Excellence Award recipient with a **9.88 CGPA** in my Bachelor's in Computational Mathematics and Statistics.  
-- 🎨 Interests: The intersection of **mathematics**, **finance**, and **computer science**.  
+-  Interests: **Generative AI**, **Deep Learning**, **mathematics**, **finance**, and **computer science**.  
 
 ---
 
