@@ -10,13 +10,13 @@ Welcome to my GitHub profile! Here, you’ll find a collection of projects and r
 
 ## 🌟 About Me
 
-- 🔍 I specialize in **Data Science** ,**Data Analytics** and **Financial Analytics**.  
-- 💡 Currently pursuing an **MSc in Data Science with a Minor in Finance**.  
-- 🔭 Currently working on **Deep Learning for Image Vision using Neural Networks**.  
-- 🤝 Looking to collaborate on **Data Science/Machine Learning Projects**.  
+-  I specialize in **Data Science** ,**Data Analytics** and **Financial Analytics**.  
+-  Currently pursuing an **MSc in Data Science with a Minor in Finance**.  
+-  Currently working on **Deep Learning for Image Vision using Neural Networks**.  
+-  Looking to collaborate on **Data Science/Machine Learning Projects**.  
 - 📧 Reach me at **vigyanbhardwaj970@gmail.com**.  
-- 🌱 I’m currently learning **Deep Learning** and **Natural Language Processing**.  
-- 🏆 Achievements:  
+-  I’m currently learning **Deep Learning** and **Natural Language Processing**.  
+-  Achievements:  
   - Presented a paper on **Responsible AI** at a national conference.  
   - Academic Excellence Award recipient with a **9.88 CGPA** in my Bachelor's in Computational Mathematics and Statistics.  
 - 🎨 Interests: The intersection of **mathematics**, **finance**, and **computer science**.  
