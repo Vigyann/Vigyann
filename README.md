@@ -58,7 +58,7 @@ Welcome to my GitHub profile! Here, you’ll find a collection of projects and r
 
 ---
  
-## 📊  GitHub Stats
+##   GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigyann&show_icons=true&locale=en&layout=compact" alt="vigyann" />
